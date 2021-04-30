@@ -5,7 +5,7 @@ export const initialState = {
     gender:"",
     age:"",address:""
     ,city : "",state:"",zip:"",phone:"",card_no : "",cvv:"",
-    balance:1000,}],
+    balance:10000,}],
 
     user: null,
     basket:[],
